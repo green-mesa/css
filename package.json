@@ -1,15 +1,4 @@
 {
-  "name": "green-mesa-css",
-  "description": "DOM element css helper",
-  "version": "0.0.2",
-  "keywords": [],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
-  "main" : "index.js"
-}
-
-{
   "name"          : "green-mesa-css",
   "description"   : "DOM element css helper",
   "keywords"      : ["DOM", "css", "client", "browser"],
