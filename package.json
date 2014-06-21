@@ -1,14 +1,25 @@
 {
-  "name": "css-component",
+  "name": "green-mesa-css",
   "description": "DOM element css helper",
   "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "component": {
-    "scripts": {
-      "css/index.js": "index.js"
-    }
+  "main" : "index.js"
+}
+
+{
+  "name"          : "green-mesa-css",
+  "description"   : "DOM element css helper",
+  "keywords"      : ["DOM", "css", "client", "browser"],
+  "author"        : "Visionmedia",
+  "dependencies"  : {},
+  "main"          : "index.js",
+  "version"       : "0.0.2",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/green-mesa/css.git"
   }
 }

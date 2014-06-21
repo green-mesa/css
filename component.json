@@ -1,6 +1,6 @@
 {
   "name": "css",
-  "repo": "component/css",
+  "repo": "green-mesa/css",
   "description": "DOM element css helper",
   "version": "0.0.2",
   "keywords": ["css", "style", "stylesheet", "utility"],
